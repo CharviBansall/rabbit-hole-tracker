@@ -2,13 +2,6 @@
 Chrome extension to track academic rabbit holes and time spent reading.
 It logs the time you spend on sites like PubMed, ScienceDirect, etc — and shows your reading trail.
 
-Features
-- 🕒 Timer that tracks time spent reading research articles
-- 📚 Trail of visited article titles
-- 📏 Depth tracker to show how far you've clicked
-- ✅ Works across PubMed, Google Scholar, Wikipedia, and more
-- 💾 Saves everything locally (no data leaves your browser)
-
 Installation
 Coming soon on the Chrome Web Store!
 
